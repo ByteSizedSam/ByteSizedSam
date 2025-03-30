@@ -7,6 +7,8 @@
 ### 🌟 **Who am I?**
 I'm Sam—a self-driven learner stepping into the world of programming. My goal is to build a strong, practical coding skillset through structured learning and meaningful projects. My ultimate dream is to use these skills to explore global work opportunities.
 
+> "Coding isn't about what you know; it's about what you can figure out." 🌟
+
 ---
 
 ### 🔥 **My Current Tech Stack**
